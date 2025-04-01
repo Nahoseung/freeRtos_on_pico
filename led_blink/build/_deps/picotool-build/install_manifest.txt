@@ -1,0 +1,5 @@
+/home/na_osdc/osdc/rpi_pico/pico/led_blink/build/_deps/picotool/picotool
+/home/na_osdc/osdc/rpi_pico/pico/led_blink/build/_deps/picotool/picotoolTargets.cmake
+/home/na_osdc/osdc/rpi_pico/pico/led_blink/build/_deps/picotool/picotoolTargets-release.cmake
+/home/na_osdc/osdc/rpi_pico/pico/led_blink/build/_deps/picotool/picotoolConfig.cmake
+/home/na_osdc/osdc/rpi_pico/pico/led_blink/build/_deps/picotool/picotoolConfigVersion.cmake
